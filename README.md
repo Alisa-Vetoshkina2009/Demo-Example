@@ -104,6 +104,6 @@ project/
 | Участник | Зона ответственности | GitHub |
 |----------|---------------------|--------|
 | Ветошкина Алиса | Координация команды, Backend | [Профиль](https://github.com/Alisa-Vetoshkina2009) |
-| Коняхина Кристина | Серверная часть, БД, Tester | [Профиль](https://github.com/) |
-| Татаркина Юлия | Frontend, Backend | [Профиль](https://github.com/) |
-| Артыкова Дилрабо | Frontend, Дизайн, Figma | [Профиль](https://github.com/) |
+| Коняхина Кристина | Серверная часть, БД, Tester | [Профиль](https://github.com/Kris-tina2008) |
+| Татаркина Юлия | Frontend, Backend | [Профиль](https://github.com/tatarkinauliaaa) |
+| Артыкова Дилрабо | Frontend, Дизайн, Figma | [Профиль](https://github.com/artykovaDilya) |
